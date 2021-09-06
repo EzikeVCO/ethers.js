@@ -11,7 +11,7 @@
     "@ethersproject/bignumber": "5.0.8",
     "@ethersproject/bytes": "5.0.5",
     "@ethersproject/constants": "5.0.5",
-    "@ethersproject/contracts": "5.0.5",
+    "@ethersproject/contracts": "5.4.1",
     "@ethersproject/hash": "5.0.5",
     "@ethersproject/hdnode": "5.0.5",
     "@ethersproject/json-wallets": "5.0.7",
