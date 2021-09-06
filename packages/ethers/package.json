@@ -8,7 +8,7 @@
     "@ethersproject/address": "5.0.5",
     "@ethersproject/base64": "5.0.4",
     "@ethersproject/basex": "5.0.4",
-    "@ethersproject/bignumber": "5.0.8",
+    "@ethersproject/bignumber": "5.4.1",
     "@ethersproject/bytes": "5.0.5",
     "@ethersproject/constants": "5.0.5",
     "@ethersproject/contracts": "5.0.5",
