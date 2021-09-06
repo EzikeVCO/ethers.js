@@ -4,7 +4,7 @@
   "dependencies": {
     "@ethersproject/abi": "5.0.7",
     "@ethersproject/abstract-provider": "5.0.5",
-    "@ethersproject/abstract-signer": "5.0.6",
+    "@ethersproject/abstract-signer": "5.4.1",
     "@ethersproject/address": "5.0.5",
     "@ethersproject/base64": "5.0.4",
     "@ethersproject/basex": "5.0.4",
