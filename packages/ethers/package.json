@@ -2,7 +2,7 @@
   "author": "Richard Moore <me@ricmoo.com>",
   "browser": "./dist/ethers.umd.js",
   "dependencies": {
-    "@ethersproject/abi": "5.0.7",
+    "@ethersproject/abi": "5.4.0",
     "@ethersproject/abstract-provider": "5.0.5",
     "@ethersproject/abstract-signer": "5.0.6",
     "@ethersproject/address": "5.0.5",
