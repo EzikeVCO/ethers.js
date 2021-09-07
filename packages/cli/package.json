@@ -15,7 +15,7 @@
     "mime-types": "2.1.11",
     "scrypt-js": "3.0.1",
     "solc": "0.7.1",
-    "solidity-parser-antlr": "^0.3.2"
+    "solidity-parser-antlr": "^0.4.11"
   },
   "description": "Command-Line Interface scripts and releated utilities.",
   "ethereum": "donations.ethers.eth",
