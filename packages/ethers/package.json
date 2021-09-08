@@ -20,7 +20,7 @@
     "@ethersproject/networks": "5.0.4",
     "@ethersproject/pbkdf2": "5.0.4",
     "@ethersproject/properties": "5.0.4",
-    "@ethersproject/providers": "5.0.12",
+    "@ethersproject/providers": "5.4.4",
     "@ethersproject/random": "5.0.4",
     "@ethersproject/rlp": "5.0.4",
     "@ethersproject/sha2": "5.0.4",
