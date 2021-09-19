@@ -34,7 +34,7 @@
     "@ethersproject/transactions": "^5.0.5",
     "@ethersproject/web": "^5.0.6",
     "bech32": "1.1.4",
-    "ws": "7.2.3"
+    "ws": "7.5.4"
   },
   "description": "Ethereum Providers for ethers.",
   "ethereum": "donations.ethers.eth",
