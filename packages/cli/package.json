@@ -14,7 +14,7 @@
     "ethers": "^5.0.13",
     "mime-types": "2.1.11",
     "scrypt-js": "3.0.1",
-    "solc": "0.7.1",
+    "solc": "0.8.13",
     "solidity-parser-antlr": "^0.3.2"
   },
   "description": "Command-Line Interface scripts and releated utilities.",
