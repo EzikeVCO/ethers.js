@@ -17,7 +17,7 @@
     "@ethersproject/json-wallets": "5.0.7",
     "@ethersproject/keccak256": "5.0.4",
     "@ethersproject/logger": "5.0.6",
-    "@ethersproject/networks": "5.0.4",
+    "@ethersproject/networks": "5.6.0",
     "@ethersproject/pbkdf2": "5.0.4",
     "@ethersproject/properties": "5.0.4",
     "@ethersproject/providers": "5.0.12",
