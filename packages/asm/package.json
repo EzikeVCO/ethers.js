@@ -1,7 +1,7 @@
 {
   "author": "Richard Moore <me@ricmoo.com>",
   "dependencies": {
-    "ethers": "^5.0.13"
+    "ethers": "^6.0.0"
   },
   "description": "ASM libraries and tools for the Ethereum EVM.",
   "ethereum": "donations.ethers.eth",
