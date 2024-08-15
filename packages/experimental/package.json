@@ -2,7 +2,7 @@
   "author": "Richard Moore <me@ricmoo.com>",
   "dependencies": {
     "@ethersproject/web": "^5.0.6",
-    "ethers": "^5.0.13",
+    "ethers": "^6.0.0",
     "scrypt-js": "3.0.1"
   },
   "description": "Experimental libraries for ethers. These should not be considered stable.",
