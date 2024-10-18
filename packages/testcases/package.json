@@ -18,7 +18,7 @@
     "@ethersproject/keccak256": "^5.0.3",
     "@ethersproject/strings": "^5.0.4",
     "browserify-zlib": "^0.2.0",
-    "ethers": "^5.0.13"
+    "ethers": "^6.0.0"
   },
   "description": "Testcases for Ethereum and scripts to generate testcases.",
   "ethereum": "donations.ethers.eth",
